@@ -61,7 +61,7 @@ let config = {
 				type: "current",
 				location: "New York",
 				locationID: "5128581", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
-				apiKey: "120d62af1b93a10671b70302e478e83d"
+				apiKey: "<apiKey>"
 			}
 		},
 		{
@@ -73,7 +73,7 @@ let config = {
 				type: "forecast",
 				location: "New York",
 				locationID: "5128581", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
-				apiKey: "120d62af1b93a10671b70302e478e83d"
+				apiKey: "<apiKey>"
 			}
 		},
 		{
